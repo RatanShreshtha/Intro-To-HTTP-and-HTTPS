@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 rise = "*"
+h11 = "*"
 
 [requires]
 python_version = "3.7"
