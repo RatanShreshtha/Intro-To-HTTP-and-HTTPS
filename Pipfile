@@ -9,6 +9,7 @@ verify_ssl = true
 jupyter = "*"
 rise = "*"
 h11 = "*"
+trio = "*"
 
 [requires]
 python_version = "3.7"
